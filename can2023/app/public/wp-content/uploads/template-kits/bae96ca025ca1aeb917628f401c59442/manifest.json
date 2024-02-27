@@ -1,0 +1,1242 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Personal Trainer",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 1",
+            "screenshot": "screenshots\/services-1.jpg",
+            "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services 2",
+            "screenshot": "screenshots\/services-2.jpg",
+            "source": "templates\/services-2-a7380026995d1a466a44538a1626159e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Details",
+            "screenshot": "screenshots\/service-details.jpg",
+            "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me 1",
+            "screenshot": "screenshots\/about-me-1.jpg",
+            "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me 2",
+            "screenshot": "screenshots\/about-me-2.jpg",
+            "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me 3",
+            "screenshot": "screenshots\/about-me-3.jpg",
+            "source": "templates\/about-me-3-9994b91d7f59703a448605d9d9a93903.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Trainer Details 1",
+            "screenshot": "screenshots\/trainer-details-1.jpg",
+            "source": "templates\/trainer-details-1-c1ff605922eeec8923ea04baee44c8be.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Trainer Details 2",
+            "screenshot": "screenshots\/trainer-details-2.jpg",
+            "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Schedule",
+            "screenshot": "screenshots\/schedule.jpg",
+            "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq-9408641421bed34fb5c93d70f5ca5cbb.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1.jpg",
+            "source": "templates\/contact-1-b382d863d9cb0ae18fbadfdfa322881c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2.jpg",
+            "source": "templates\/contact-2-76b518db6be2d8642fed76aab5ec001a.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "mainq2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/mainq2-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-2-a7380026995d1a466a44538a1626159e.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/about-me-3-9994b91d7f59703a448605d9d9a93903.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/contact-2-76b518db6be2d8642fed76aab5ec001a.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 97020,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "jakob-owens-1455687-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/jakob-owens-1455687-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/contact-2-76b518db6be2d8642fed76aab5ec001a.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 132720,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "services.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/services-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/services-2-a7380026995d1a466a44538a1626159e.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/about-me-3-9994b91d7f59703a448605d9d9a93903.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/faq-9408641421bed34fb5c93d70f5ca5cbb.json",
+                    "name": "faq"
+                }
+            ],
+            "filesize": 169031,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "bb.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/bb-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/about-me-3-9994b91d7f59703a448605d9d9a93903.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                },
+                {
+                    "source": "templates\/contact-2-76b518db6be2d8642fed76aab5ec001a.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 167163,
+            "dimensions": [
+                1200,
+                1799
+            ]
+        },
+        {
+            "filename": "dumbbell.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/dumbbell-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 3088,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "bruno-nascimento-149663-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/bruno-nascimento-149663-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/contact-2-76b518db6be2d8642fed76aab5ec001a.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 561827,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "treadmill.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/treadmill.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 6292,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "tyler-nix-1088199-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/tyler-nix-1088199-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-2-a7380026995d1a466a44538a1626159e.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/about-me-3-9994b91d7f59703a448605d9d9a93903.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 411796,
+            "dimensions": [
+                1200,
+                1800
+            ]
+        },
+        {
+            "filename": "gymnast-apple-diet-with-natural-supplements.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gymnast-apple-diet-with-natural-supplements.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/about-me-3-9994b91d7f59703a448605d9d9a93903.json",
+                    "name": "About Me 3"
+                }
+            ],
+            "filesize": 14198,
+            "dimensions": [
+                256,
+                256
+            ]
+        },
+        {
+            "filename": "mariano-werneck-540570-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/mariano-werneck-540570-unsplash-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/trainer-details-1-c1ff605922eeec8923ea04baee44c8be.json",
+                    "name": "Trainer Details 1"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 3054603,
+            "dimensions": [
+                4032,
+                3024
+            ]
+        },
+        {
+            "filename": "trainer2.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/trainer2-500x648.png",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                }
+            ],
+            "filesize": 350086,
+            "dimensions": [
+                700,
+                907
+            ]
+        },
+        {
+            "filename": "booking.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/booking-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/trainer-details-1-c1ff605922eeec8923ea04baee44c8be.json",
+                    "name": "Trainer Details 1"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/contact-1-b382d863d9cb0ae18fbadfdfa322881c.json",
+                    "name": "Contact 1"
+                },
+                {
+                    "source": "templates\/contact-2-76b518db6be2d8642fed76aab5ec001a.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 274591,
+            "dimensions": [
+                1200,
+                675
+            ]
+        },
+        {
+            "filename": "victor-freitas-570027-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/victor-freitas-570027-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 407874,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "artur-rutkowski-61567-unsplash-e1596109392203.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/artur-rutkowski-61567-unsplash-500x755.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-2-a7380026995d1a466a44538a1626159e.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/about-me-3-9994b91d7f59703a448605d9d9a93903.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/contact-2-76b518db6be2d8642fed76aab5ec001a.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 221720,
+            "dimensions": [
+                1600,
+                2416
+            ]
+        },
+        {
+            "filename": "avi-richards-640982-unsplash-e1596109317401.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/avi-richards-640982-unsplash-500x667.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-8dd1ffba859063e22140c24bcd4b052b.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 254711,
+            "dimensions": [
+                1600,
+                2133
+            ]
+        },
+        {
+            "filename": "jakob-owens-1455687-unsplash-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/jakob-owens-1455687-unsplash-1-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                }
+            ],
+            "filesize": 132720,
+            "dimensions": [
+                1200,
+                800
+            ]
+        },
+        {
+            "filename": "torso_bn.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/torso_bn-500x298.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/about-me-3-9994b91d7f59703a448605d9d9a93903.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/trainer-details-1-c1ff605922eeec8923ea04baee44c8be.json",
+                    "name": "Trainer Details 1"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/contact-2-76b518db6be2d8642fed76aab5ec001a.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 139327,
+            "dimensions": [
+                1200,
+                716
+            ]
+        },
+        {
+            "filename": "gal-gym-4.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gal-gym-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 34605,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "gal-gym-6.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gal-gym-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/services-2-a7380026995d1a466a44538a1626159e.json",
+                    "name": "Services 2"
+                }
+            ],
+            "filesize": 14865,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "meghan-holmes-779221-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/meghan-holmes-779221-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/services-2-a7380026995d1a466a44538a1626159e.json",
+                    "name": "Services 2"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+                    "name": "About Me 2"
+                },
+                {
+                    "source": "templates\/about-me-3-9994b91d7f59703a448605d9d9a93903.json",
+                    "name": "About Me 3"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/faq-9408641421bed34fb5c93d70f5ca5cbb.json",
+                    "name": "faq"
+                }
+            ],
+            "filesize": 195642,
+            "dimensions": [
+                1200,
+                675
+            ]
+        },
+        {
+            "filename": "ct-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/ct-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+                    "name": "About Me 2"
+                }
+            ],
+            "filesize": 16195,
+            "dimensions": [
+                200,
+                200
+            ]
+        },
+        {
+            "filename": "team6_a.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/team6_a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-2-d306e187b0da0742a5fdeb31da89fa9e.json",
+                    "name": "About Me 2"
+                }
+            ],
+            "filesize": 12969,
+            "dimensions": [
+                450,
+                450
+            ]
+        },
+        {
+            "filename": "client3.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/client3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 1144,
+            "dimensions": [
+                146,
+                80
+            ]
+        },
+        {
+            "filename": "client4.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/client4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 1580,
+            "dimensions": [
+                142,
+                80
+            ]
+        },
+        {
+            "filename": "client1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/client1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 1832,
+            "dimensions": [
+                147,
+                80
+            ]
+        },
+        {
+            "filename": "client2.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/client2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-2-1feef881ac8bf9e7f53f8423a2c9a508.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/trainer-details-2-8cc92f7b9c4f8f57a89ee78b1301914d.json",
+                    "name": "Trainer Details 2"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 1131,
+            "dimensions": [
+                109,
+                80
+            ]
+        },
+        {
+            "filename": "gesina-kunkel-1495728-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gesina-kunkel-1495728-unsplash-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 355907,
+            "dimensions": [
+                1200,
+                675
+            ]
+        },
+        {
+            "filename": "gesina-kunkel-1501817-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gesina-kunkel-1501817-unsplash-500x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                }
+            ],
+            "filesize": 288931,
+            "dimensions": [
+                1200,
+                1200
+            ]
+        },
+        {
+            "filename": "gal-gym-7.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gal-gym-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 51846,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "gal-gym-8.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gal-gym-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 32868,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "gal-gym-2.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gal-gym-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 38031,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "gal-gym-1.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gal-gym-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-31105631db6decaee28e0e818fe5e877.json",
+                    "name": "Home 3"
+                }
+            ],
+            "filesize": 37820,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "dumbbell-1.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/dumbbell-1-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+                    "name": "Services 1"
+                },
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                },
+                {
+                    "source": "templates\/about-me-1-1e9b26dc7fa011ec31eb23a81bbe57a5.json",
+                    "name": "About Me 1"
+                },
+                {
+                    "source": "templates\/contact-2-76b518db6be2d8642fed76aab5ec001a.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 13894,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "weightlifting.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/weightlifting-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 6246,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "sport-bag.png",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/sport-bag-500x500.png",
+            "templates": [
+                {
+                    "source": "templates\/services-1-c480c85bd117f2fbce3c1beb3961fe4b.json",
+                    "name": "Services 1"
+                }
+            ],
+            "filesize": 7682,
+            "dimensions": [
+                512,
+                512
+            ]
+        },
+        {
+            "filename": "gal-gym-3.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/gal-gym-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-details-e69edf4aac0b0ffa61e83600310d26c1.json",
+                    "name": "Service Details"
+                }
+            ],
+            "filesize": 26938,
+            "dimensions": [
+                800,
+                600
+            ]
+        },
+        {
+            "filename": "vidar-nordli-mathisen-567465-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/collection-35\/wp-content\/uploads\/sites\/38\/2018\/07\/vidar-nordli-mathisen-567465-unsplash-500x332.jpg",
+            "templates": [
+                {
+                    "source": "templates\/schedule-993629ffdf611516e8dd14f934525bca.json",
+                    "name": "Schedule"
+                },
+                {
+                    "source": "templates\/courses-54c80bc2ca313d9c896a93a8a4f39ac6.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 237186,
+            "dimensions": [
+                1200,
+                797
+            ]
+        }
+    ]
+}

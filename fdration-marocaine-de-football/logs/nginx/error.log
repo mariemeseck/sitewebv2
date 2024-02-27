@@ -1,0 +1,5 @@
+2024/02/21 12:51:55 [alert] 10960#8268: OpenEvent("ngx_master_12236") failed (2: The system cannot find the file specified)
+2024/02/21 20:14:40 [alert] 10724#3740: OpenEvent("ngx_master_2600") failed (2: The system cannot find the file specified)
+2024/02/22 12:26:46 [alert] 3588#2164: OpenEvent("ngx_master_11512") failed (2: The system cannot find the file specified)
+2024/02/23 20:53:35 [alert] 12352#1660: OpenEvent("ngx_master_8304") failed (2: The system cannot find the file specified)
+2024/02/23 21:51:37 [error] 1012#12484: *691 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10015", host: "fdration-marocaine-de-football.local", referrer: "http://fdration-marocaine-de-football.local/wp-admin/post.php?post=7&action=elementor"
